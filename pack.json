@@ -1,7 +1,7 @@
 {
 	"name": "Testing",
 	"description": "Test pack.",
-	"source": "",
+	"source": "https://raw.githubusercontent.com/VelvetVillainess/breeze-testing/refs/heads/main/pack.json",
 	"shorthand": {},
 	"data": [
 		{
