@@ -1,0 +1,17 @@
+{
+	"name": "Testing",
+	"description": "Test pack.",
+	"source": "",
+	"shorthand": {},
+	"data": [
+		{
+			"if": "true == true",
+			"do": {
+				"music": {
+					"yt": "Y_EVa7P9w-s",
+					"volume": 0.5
+				}
+			}
+		}
+	]
+}
